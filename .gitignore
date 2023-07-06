@@ -1,4 +1,4 @@
 ./node_modules
 node_modules
 dist
-!D:\Personal\YummiBites\node_modules\@xenova\transformers\.cache\Xenova
+!node_modules\@xenova\transformers\.cache\Xenova
