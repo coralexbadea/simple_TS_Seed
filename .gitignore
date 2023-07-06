@@ -1,4 +1,4 @@
 ./node_modules
-node_modules
+node_modules/
 dist
-!node_modules\@xenova\transformers\.cache\Xenova
+!node_modules/@xenova.transformers/.cache/Xenova/
